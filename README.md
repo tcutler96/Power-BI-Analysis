@@ -5,4 +5,5 @@ The project features an interactive Power BI dashboard with multiple visualisati
 
 ## Dashboard
 ![Demo](demo.gif)
+
 ![Dashboard](dashboard.png)
