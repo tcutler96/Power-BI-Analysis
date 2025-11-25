@@ -4,6 +4,5 @@ This project involved analysing and visualising survey data provided by data pro
 The project features an interactive Power BI dashboard with multiple visualisations, including bar charts, maps, and scatter plots. Drill-downs and grouping enable detailed exploration, while conditional formatting highlights trends and anomalies. Overall, this project demonstrates how structured data modelling, combined with interactive visual analytics, can uncover insights about the data profession and support informed decision-making.
 
 ## Dashboard
-!(dashboard.gif)
-!(dashboard.png)
-![](demo/demo.png)
+![Dashboard Gif](dashboard.gif)
+![Dashboard Image](dashboard.png)
